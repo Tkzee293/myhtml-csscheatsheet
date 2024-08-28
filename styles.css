@@ -1,0 +1,45 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Work Sans', Roboto, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    color: #b8894f;
+    font-family: Matemasie, Roboto, sans-serif;
+}
+
+h2 {
+    font-family: Pacifico, Roboto, sans-serif;
+}
+
+h5 {
+    color: #b8894f;
+}
+
+table {
+    border: 3px solid #ebbe88;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #ebbe88;
+}
+
+th {
+    background-color: #F5F5DC;
+}
+
+td {
+    padding-right: 20px;
+}
+
+.tag {
+    /*background-color: #efd6b6;
+    border-radius: 15px;*/
+    background: linear-gradient(to right, rgb(154, 115, 115), rgb(222, 222, 112));
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
